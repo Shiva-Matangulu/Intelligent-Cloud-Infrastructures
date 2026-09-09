@@ -150,7 +150,7 @@ intelligent-cloud-infrastructure-aws/
     │
     └── images/
         └── architecture.png
-
+```
 
 ## 🛠️ How I Built It
 
