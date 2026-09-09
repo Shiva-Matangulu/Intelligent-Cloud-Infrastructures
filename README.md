@@ -160,6 +160,14 @@ I started with the VPC and networking, then configured the load balancer, ECS cl
 
 After completing the setup, I tested the recovery and scaling behavior and documented the results.
 
+
+## Related Documentation
+
+* [Architecture](architecture.md) — How I designed the infrastructure
+* [Deployment Guide](deployment-guide.md) — Steps I followed to build it
+* [README](../README.md) — Project overview
+* [Full Visual Guide](../shiva_final_intelligent_cloud_infrastructure%20-%20FINAL.pdf) — Complete AWS Console walkthrough
+
 ---
 
 ## 👨‍💻 Author
