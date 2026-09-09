@@ -150,3 +150,29 @@ intelligent-cloud-infrastructure-aws/
     │
     └── images/
         └── architecture.png
+
+
+## 🛠️ How I Built It
+
+I built the infrastructure using the **AWS Management Console** and AWS-native services.
+
+I started with the VPC and networking, then configured the load balancer, ECS cluster, Fargate service, container image, auto scaling, CloudWatch monitoring, SNS notifications, AWS Config, and CloudTrail.
+
+After completing the setup, I tested the recovery and scaling behavior and documented the results.
+
+---
+
+## 👨‍💻 Author
+
+**Shiva Matangulu**
+
+I built this project as a hands-on AWS infrastructure project to improve my understanding of **cloud architecture, container deployment, networking, monitoring, security, and automated recovery**.
+
+* GitHub: [@Shiva-Matangulu41](https://github.com/Shiva-Matangulu41)
+* LinkedIn: [Shiva Matangulu](https://www.linkedin.com/in/shiva-matangulu)
+* Medium: [@shivamatangulu](https://medium.com/@shivamatangulu)
+* Dev.to: [Shiva Matangulu](https://dev.to/)
+
+---
+
+
