@@ -140,7 +140,6 @@ I also enabled CloudTrail to record AWS API activity and configured S3 for centr
 intelligent-cloud-infrastructure-aws/
 │
 ├── README.md
-├── LICENSE
 ├── shiva_final_intelligent_cloud_infrastructure - FINAL.pdf
 │
 └── docs/
